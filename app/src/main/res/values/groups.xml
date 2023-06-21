@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="course_1">
+        <item>ЕЗС-14</item>
+        <item>ЗВ-15</item>
+        <item>ОПЗ-16</item>
+        <item>ОПЗ-18</item>
+        <item>ВШП-1</item>
+        <item>ЗВК-4</item>
+        <item>ЕГЗ-5</item>
+        <item>ОПЗ-8</item>
+    </string-array>
+
+    <string-array name="course_2">
+        <item>ВХВ-23</item>
+        <item>ЕЗС-24</item>
+        <item>ЗВ-25</item>
+        <item>ОПЗ-26</item>
+        <item>ОПЗ-28</item>
+    </string-array>
+
+    <string-array name="course_3">
+        <item>ВХВ-33</item>
+        <item>ЕЗС-34</item>
+        <item>ЗВК-35</item>
+        <item>ОПЗ-36</item>
+    </string-array>
+
+    <string-array name="course_4">
+        <item>ЗВ-45</item>
+        <item>КН-46</item>
+    </string-array>
+
+    <string-array name="course_5">
+        <item>ЗВ-55</item>
+        <item>КН-56</item>
+    </string-array>
+
+</resources>

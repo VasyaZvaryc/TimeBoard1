@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TimeBoard</string>
+    <string name="logoText">Розклад Уроків</string>
+    <string name="hint_user_field">Введіть Групу </string>
+    <string name="main_btn">Група</string>
+    <string name="new_item">Добавити нові дані</string>
+    <string name="day_of_week">День тиждня</string>
+    <string name="num_lesson">Номер уроку</string>
+    <string name="subject">Назва уроку</string>
+    <string name="teatcher">Викладач</string>
+    <string name="save">Зберегти</string>
+    <string name="error">Сталася помилка!!!</string>
+
+    <string name="no">Ні</string>
+    <string name="ok">Так</string>
+
+</resources>
